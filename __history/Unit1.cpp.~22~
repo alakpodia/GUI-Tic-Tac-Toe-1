@@ -54,15 +54,6 @@ void __fastcall TForm1::ButtonClick(TObject *Sender)
 
 	if (checkIsWinner()){
 		WinnerLabel->Text= "You Won!!";
-		Button1->Enabled=false;
-		Button2->Enabled=false;
-		Button3->Enabled=false;
-		Button4->Enabled=false;
-		Button5->Enabled=false;
-		Button6->Enabled=false;
-		Button7->Enabled=false;
-		Button8->Enabled=false;
-		Button9->Enabled=false;
         return;
 	}
 

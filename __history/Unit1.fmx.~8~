@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 0
   Caption = 'Form1'
   ClientHeight = 345
-  ClientWidth = 341
+  ClientWidth = 400
   FormFactor.Width = 320
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
@@ -15,6 +15,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 8
+    Text = '1'
     OnClick = ButtonClick
   end
   object Button2: TButton
@@ -24,6 +25,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 6
+    Text = '2'
     OnClick = ButtonClick
   end
   object Button3: TButton
@@ -33,6 +35,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 3
+    Text = '3'
     OnClick = ButtonClick
   end
   object Button4: TButton
@@ -42,6 +45,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 7
+    Text = '4'
     OnClick = ButtonClick
   end
   object Button5: TButton
@@ -51,6 +55,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 5
+    Text = '5'
     OnClick = ButtonClick
   end
   object Button6: TButton
@@ -60,6 +65,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 1
+    Text = '6'
     OnClick = ButtonClick
   end
   object Button7: TButton
@@ -69,6 +75,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 4
+    Text = '7'
     OnClick = ButtonClick
   end
   object Button8: TButton
@@ -78,6 +85,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 2
+    Text = '8'
     OnClick = ButtonClick
   end
   object Button9: TButton
@@ -87,6 +95,7 @@ object Form1: TForm1
     Size.Height = 57.000000000000000000
     Size.PlatformDefault = False
     TabOrder = 0
+    Text = '9'
     OnClick = ButtonClick
   end
   object Label1: TLabel
